@@ -11,6 +11,7 @@ public:
 
             }
             mpp[nums[i]]=i;
+            cout<<"TRIAL"<<endl;
                     
         }
         return ans;
